@@ -1,6 +1,6 @@
 # AI Usage Report
 
-**Студент аты:** Avdanov Bigazy  
+**Студент аты:** Orazymbet Fariza
 **Күні:** 27.02.2026
 **Лаборатория:** Lab 07 — Code Splitting with Suspense & Error Boundary  
 
